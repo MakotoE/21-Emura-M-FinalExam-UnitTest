@@ -1,0 +1,4 @@
+1. To extend the add method to cover the new requirements:
+    1. After parsing the integer, it should throw an exception if the integer is negative.
+    2. If the integer is larger than or equal to 1000, it should not add the number.
+2. At least two tests should be added, where one test should pass a negative number, and another test should pass 1000.
